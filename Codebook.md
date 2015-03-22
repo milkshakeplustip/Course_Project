@@ -4,6 +4,8 @@
 
 1. Every variable represents the mean of the respective values for every combination of subject-activity in the original data set (a summary of the subject-activity groups using the means of each remaining column).
 
+## Variables
+
 tBodyAcc-mean()-X
            
 tBodyAcc-mean()-Y
