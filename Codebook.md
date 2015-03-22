@@ -3,6 +3,7 @@
 ## Notes
 
 1. Every variable represents the mean of the respective values for every combination of subject-activity in the original data set (a summary of the subject-activity groups using the means of each remaining column).
+2. A fuller explanation of the methodology used to obtain these measurements can be found here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Variables
 
