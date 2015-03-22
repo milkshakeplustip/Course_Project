@@ -7,6 +7,10 @@
 
 ## Variables
 
+Subject: Each of the 30 subjects that participated in the experiments and performed each of the six activities.
+
+Activity: Each of the six activities done by the subjects (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying).
+
 tBodyAcc-mean()-X
            
 tBodyAcc-mean()-Y
