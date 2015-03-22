@@ -1,5 +1,7 @@
 # Data Dictionary
 
+Every variable represents the mean of the respective values for every combination of subject-activity in the original data set.
+
 "tBodyAcc-mean()-X"
            
 "tBodyAcc-mean()-Y"
